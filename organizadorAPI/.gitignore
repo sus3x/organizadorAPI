@@ -1,0 +1,10 @@
+# Ignore pastas de build e VS
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.db
